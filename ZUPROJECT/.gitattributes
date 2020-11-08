@@ -1,1 +1,1 @@
-*.js linguist-detectable=false
+bookpage/*.js linguist-vendored
