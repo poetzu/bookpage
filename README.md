@@ -11,13 +11,13 @@
   * MySQL WorkBench
   <br>
 * 언어
-  * JAVA SE1.8 JDK 8
-  * JSP model 1
+  * JAVA SE1.8 `JDK 8`
+  * JSP `model 1`
   * HTML5/CSS3
   * JavaScript/Jquery
   <br>
 * 서버(WAS)
-  * Apache Tomcat v8.0
+  * Apache Tomcat `v8.0`
   <br>
 * 커뮤니티
   * Github
@@ -47,9 +47,9 @@
 * [Contact us](#Contact-us)
 
 ## 회원가입
-* jQuery를 활용하여 비밀번호, 비밀번호 확인 유효성 검사하기
-* 유효성 검사를 하는 동시에 Ajax를 활용한 아이디 중복 확인 검사하기
-* KAKAO 우편번호 API를 활용하여 주소 찾기 구현
+* `jQuery`를 활용하여 비밀번호, 비밀번호 확인 유효성 검사하기
+* 유효성 검사를 하는 동시에 `Ajax`를 활용한 아이디 중복 확인 검사하기
+* `KAKAO 우편번호 API`를 활용하여 주소 찾기 구현
 <img src="https://user-images.githubusercontent.com/68896112/98518755-26c70680-22b3-11eb-8278-4932190599eb.gif">
 
 ## 게시판
@@ -70,7 +70,7 @@
 <img src="https://user-images.githubusercontent.com/68896112/98519092-a2c14e80-22b3-11eb-85bb-c8ecdaae9e7f.png">
 
 ## Contact us
-* javax.mail 라이브러리와 SMTP를 활용하여 이메일 발송 기능 구현
+* `javax.mail` 라이브러리와 SMTP를 활용하여 이메일 발송 기능 구현
 <img src="https://user-images.githubusercontent.com/68896112/98519182-bec4f000-22b3-11eb-9405-ef1e98afbb29.png">
 
 ### Copyright © 2020 YUZU LEE.
