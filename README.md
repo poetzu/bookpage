@@ -67,7 +67,7 @@
 
 ## 북마크 게시판
 * 이미지 업로드 및 댓글등록 및 삭제 구현
-* 목록에서 이미지 출력
+* 목록에서 이미지 출력<br>
 <br><img src="https://user-images.githubusercontent.com/68896112/98519092-a2c14e80-22b3-11eb-85bb-c8ecdaae9e7f.png"><br>
 
 ## Contact us
